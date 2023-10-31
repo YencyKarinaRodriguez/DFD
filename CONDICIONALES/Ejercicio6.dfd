@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+8
+totalUsb
+1
+0
+9
+precioUsb
+1
+0
+4
+1
+25
+'Digite el numero de USB'
+5
+1
+8
+totalUsb
+4
+1
+28
+'Digite el precio de la USB'
+5
+1
+9
+precioUsb
+7
+0
+1
+13
+totalUsb >= 4
+6
+3
+13
+precioCompra 
+20
+totalUsb * precioUsb
+9
+descuento
+19
+precioCompra * 0.10
+11
+precioFinal
+25
+precioCompra  - descuento
+4
+1
+64
+'El total de la compra con el 10% de descuento es: ',precioFinal
+13
+6
+3
+12
+precioCompra
+20
+totalUsb * precioUsb
+9
+descuento
+19
+precioCompra * 0.15
+11
+precioFinal
+24
+precioCompra - descuento
+4
+1
+60
+'El total a pagar con el 15% de descuento es: ', precioFinal
+13
+1

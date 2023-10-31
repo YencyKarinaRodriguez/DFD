@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+8
+horasYen
+1
+0
+4
+1
+29
+'Digite las horas trabajadas'
+5
+1
+8
+horasYen
+7
+0
+1
+12
+horasYen<=40
+6
+3
+11
+horasExtras
+13
+horasYen - 48
+4
+hora
+22
+horasYen - horasExtras
+7
+salario
+38
+(hora * 30000) + (horasExtras * 35000)
+13
+6
+1
+7
+salario
+16
+horasYen * 30000
+13
+4
+1
+26
+'El salario es: ', salario
+1

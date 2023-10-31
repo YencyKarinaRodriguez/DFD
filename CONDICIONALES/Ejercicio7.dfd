@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+6
+numYen
+10
+random(50)
+9
+compraYen
+1
+0
+4
+1
+30
+'Digite el total de la compra'
+5
+1
+9
+compraYen
+7
+1
+1
+10
+numYen<=23
+6
+2
+9
+descuento
+16
+compraYen * 0.20
+6
+precio
+21
+compraYen - descuento
+4
+1
+96
+'El numero escogido es ', numero, 'por lo tanto el precio  a pagar con el descuento es ', precio
+13
+6
+2
+9
+descuento
+15
+compraYen *0.15
+6
+precio
+21
+compraYen - descuento
+4
+1
+57
+'El numero es ', numYen, ' y el descuento es de ', precio
+13
+1

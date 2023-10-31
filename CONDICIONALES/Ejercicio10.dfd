@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+num1Yen
+1
+0
+7
+num2Yen
+1
+0
+7
+num3Yen
+1
+0
+4
+1
+21
+'Digite tres numeros'
+5
+1
+25
+num1Yen, num2Yen, num3Yen
+7
+0
+1
+17
+num1Yen > num2Yen
+7
+0
+1
+17
+num2Yen > num3Yen
+4
+1
+32
+'El numero mayor es: ' , num3Yen
+13
+4
+1
+32
+'El numero mayor es: ' , num2Yen
+13
+13
+7
+0
+1
+17
+num1Yen > num3Yen
+13
+4
+1
+32
+'El numero mayor es: ' , num1Yen
+13
+13
+1

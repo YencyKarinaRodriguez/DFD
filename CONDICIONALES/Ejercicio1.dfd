@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+nota1Yen
+1
+0
+8
+nota2Yen
+1
+0
+8
+nota3Yen
+1
+0
+4
+1
+18
+'Digite las notas'
+5
+1
+28
+nota1Yen, nota2Yen, nota3Yen
+6
+1
+8
+promedio
+36
+(nota1Yen + nota2Yen + nota3Yen) / 3
+7
+0
+1
+13
+promedio >= 5
+4
+1
+11
+'no aprobo'
+13
+4
+1
+11
+'si aprobo'
+13
+1

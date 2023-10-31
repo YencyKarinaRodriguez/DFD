@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+num1Yen
+1
+0
+7
+num2Yen
+1
+0
+7
+num3Yen
+1
+0
+4
+1
+21
+'Digite tres numbers'
+5
+1
+25
+num1Yen, num2Yen, num3Yen
+7
+0
+1
+27
+num1Yen + num2Yen = num3Yen
+4
+1
+70
+'No se cumple ya que ' ,num1Yen, '+' ,num2Yen, '=' ,num1Yen  + num2Yen
+13
+4
+1
+48
+'Verdadero ',num1Yen, '+' ,num2Yen, '=' ,num3Yen
+13
+1

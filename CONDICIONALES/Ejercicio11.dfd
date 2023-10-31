@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+baseYen
+1
+0
+7
+areaYen
+1
+0
+10
+volumenYen
+1
+0
+4
+1
+30
+'Digite la base del triangulo'
+5
+1
+7
+baseYen
+6
+2
+10
+volumenYen
+11
+baseYen * 3
+7
+areaYen
+14
+6 * baseYen *3
+4
+1
+65
+'El valor del area es: ',areaYen, ' y el volumen es ' ,volumenYen
+1

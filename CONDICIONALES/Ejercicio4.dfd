@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Digite dos numeros'
+5
+1
+12
+num1Y, num2Y
+7
+0
+1
+13
+num1Y > num2Y
+7
+0
+1
+13
+num2Y > num1Y
+4
+1
+13
+'Son iguales'
+13
+4
+1
+30
+'El numero mayor es: ', num2Y 
+13
+13
+4
+1
+30
+'El numero mayor es: ' , num1Y
+13
+1

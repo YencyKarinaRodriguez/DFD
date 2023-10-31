@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+num1Y
+1
+0
+5
+num2Y
+1
+0
+4
+sumY
+1
+0
+4
+1
+20
+'Digite dos numeros'
+5
+1
+12
+num1Y, num2Y
+6
+1
+4
+sumY
+14
+num1Y + num2Y 
+7
+0
+1
+8
+sumY>=15
+4
+1
+24
+'No supero el numero 15'
+13
+4
+1
+36
+'El resultado de la suma es: ', sumY
+13
+1
