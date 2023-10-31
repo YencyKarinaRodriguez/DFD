@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+'Ingresa el valor de la unidad del estado solido'
+5
+1
+4
+yen1
+4
+1
+49
+'Ingresa el dia de la compra, 1 lunes o 2 sabado'
+5
+1
+4
+yen2
+7
+0
+1
+8
+yen2 = 1
+6
+2
+4
+yen3
+11
+yen1 * 0.18
+4
+yen4
+11
+yen1 - yen3
+4
+1
+72
+'El valor a pagar por la UND de estado solido el dia sabado es $ ' ,yen4
+13
+6
+2
+4
+yen3
+11
+yen1 * 0.15
+4
+yen4
+11
+yen1 - yen3
+4
+1
+71
+'El valor a pagar por la UND de estado solido el dia lunes es $ ' ,yen4
+13
+1

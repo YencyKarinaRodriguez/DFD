@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Ingresa el total de su salario'
+5
+1
+4
+yen1
+7
+0
+1
+13
+yen1 > 300000
+7
+0
+1
+13
+yen1 > 120000
+6
+2
+4
+yen2
+11
+yen1 * 0.05
+4
+yen3
+11
+yen1 - yen2
+4
+1
+30
+'Su salario final es $ ' ,yen3
+13
+6
+2
+4
+yen2
+11
+yen1 * 0.08
+4
+yen3
+11
+yen1 - yen2
+4
+1
+30
+'Su salario final es $ ' ,yen3
+13
+13
+6
+2
+4
+yen2
+11
+yen1 * 0.09
+4
+yen3
+11
+yen1 - yen2
+4
+1
+30
+'Su salario final es $ ' ,yen3
+13
+1

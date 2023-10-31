@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+numYen
+1
+1
+4
+nYen
+1
+0
+6
+sumYen
+1
+0
+6
+1
+11
+contadorYen
+1
+0
+4
+1
+45
+'Digite el valor de numYen en este caso es 1'
+5
+1
+6
+numYen
+4
+1
+25
+'Digita el valor de nYen'
+5
+1
+4
+nYen
+8
+1
+1
+y
+1
+6
+numYen
+1
+4
+nYen
+1
+1
+1
+7
+0
+1
+11
+y mod 2 = 1
+13
+6
+2
+6
+sumYen
+10
+sumYen + y
+11
+contadorYen
+15
+contadorYen + 1
+13
+10
+4
+1
+101
+'La suma de todos los numeros impares es ' ,sumYen, ' y el total de numeros impares es ' ,contadorYen
+1

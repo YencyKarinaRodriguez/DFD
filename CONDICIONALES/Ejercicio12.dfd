@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+64
+'Ingresa el tipo de moto a adquirir 1Honda, 2 Yahama y 3 Susuki'
+5
+1
+4
+yen1
+4
+1
+29
+'Ingresa el valor de la moto'
+5
+1
+4
+yen2
+7
+0
+1
+8
+yen1 = 1
+7
+0
+1
+8
+yen1 = 2
+7
+0
+1
+8
+yen1 = 3
+6
+2
+4
+yen3
+11
+yen2 * 0.03
+4
+yen4
+11
+yen2 - yen3
+4
+1
+40
+'El precio final de la moto es $ ' ,yen4
+13
+6
+2
+4
+yen3
+11
+yen2 * 0.09
+4
+yen4
+11
+yen2 - yen3
+4
+1
+40
+'El precio final de la moto es $ ' ,yen4
+13
+13
+6
+2
+4
+yen3
+11
+yen2 * 0.07
+4
+yen4
+11
+yen2 - yen3
+4
+1
+40
+'El precio final de la moto es $ ' ,yen4
+13
+13
+6
+2
+4
+yen3
+11
+yen2 * 0.04
+4
+yen4
+11
+yen2 - yen3
+4
+1
+40
+'El precio final de la moto es $ ' ,yen4
+13
+1
